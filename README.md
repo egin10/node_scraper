@@ -8,6 +8,7 @@ Weather
 ---
 - run : `node index`
 - open on browser : `http://localhost:8000`
+- demo : `https://node-weather.herokuapp.com/`
 
 Jadwal Adzan
 ---
