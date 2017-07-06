@@ -1,0 +1,19 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "learn about web scraper",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.1.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ginanjar S.B | egin10",
+  "license": "ISC"
+}
